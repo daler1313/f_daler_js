@@ -8,4 +8,4 @@ function gf(str){
 
 
 
-gf('index.html');
+gf('indexl.html');
