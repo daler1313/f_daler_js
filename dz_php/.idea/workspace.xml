@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d81ab3-93b7-49a5-bfe8-f79d37b47a20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../DZ_9/js/21.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ_9/js/21.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dz_it_run/php_dlaceba/Begin1.php&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,6 +60,11 @@
       <workItem from="1670040122071" duration="1000000" />
       <workItem from="1670041550984" duration="5386000" />
       <workItem from="1670068172248" duration="1396000" />
+      <workItem from="1670073589696" duration="390000" />
+      <workItem from="1670079401579" duration="942000" />
+      <workItem from="1670080450366" duration="611000" />
+      <workItem from="1670132759324" duration="377000" />
+      <workItem from="1670133161064" duration="46000" />
     </task>
     <servers />
   </component>
